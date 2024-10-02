@@ -6,8 +6,11 @@ Nvidia AI Workbench is a platform with all the tools you need to develop, train,
 
 ## Benefits
 All-in-one: Integrated tools for AI and machine learning.
+
 GPU optimization: Leverage Nvidia GPUs for fast computation.
+
 Collaboration: Easily share models.
+
 Scalability: Deploy to cloud or on-premises infrastructure.
 
 ## Introduction

@@ -1,31 +1,31 @@
-## hackAI-experiment
+# hackAI-experiment
 An AI experiment for non-experts
 
-# the Nvidia AI Workbench Quick Start Guide
+## the Nvidia AI Workbench Quick Start Guide
 Nvidia AI Workbench is a platform with all the tools you need to develop, train, and deploy artificial intelligence (AI) models, leveraging the power of Nvidia GPUs.
 
-# Benefits
+## Benefits
 All-in-one: Integrated tools for AI and machine learning.
 GPU optimization: Leverage Nvidia GPUs for fast computation.
 Collaboration: Easily share models.
 Scalability: Deploy to cloud or on-premises infrastructure.
 
-# Introduction
+## Introduction
 Prerequisites: Basic knowledge of Python and machine learning.
 Installation: Install Docker, Nvidia Docker, download AI Workbench, and set up your environment.
 
-# Features
+## Features
 Code editor: Develop with Jupyter Notebook.
 Dataset management: Preprocess and load data.
 Monitoring: Monitor model performance in real time.
 
-# Training and deployment
+## Training and deployment
 Training: Define and train models on GPUs with TensorFlow or PyTorch.
 Deployment: Export and run your model on cloud or on-premises.
 
-# Simulation
+## Simulation
 If you don't have a powerful GPU, AI Workbench offers simulated modes and access to cloud GPUs.
 
-# Tips
+## Tips
 Start with simple models.
 Check out the documentation and join the community for support.

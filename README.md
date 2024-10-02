@@ -30,6 +30,6 @@ If you don't have a powerful GPU, AI Workbench offers simulated modes and access
 Start with simple models.
 Check out the documentation and join the community for support.
 
-To simulate using the GPU without any available hardware, you can set up a CPU-only version of the container
+To simulate using the GPU without any available hardware, you can set up a CPU-only version of the container:
 
 docker run -p 8888:8888 -v /path/to/your/code:/workspace -it nvidia/ai-workbench:cpu

@@ -15,15 +15,19 @@ Scalability: Deploy to cloud or on-premises infrastructure.
 
 ## Introduction
 Prerequisites: Basic knowledge of Python and machine learning.
+
 Installation: Install Docker, Nvidia Docker, download AI Workbench, and set up your environment.
 
 ## Features
 Code editor: Develop with Jupyter Notebook.
+
 Dataset management: Preprocess and load data.
+
 Monitoring: Monitor model performance in real time.
 
 ## Training and deployment
 Training: Define and train models on GPUs with TensorFlow or PyTorch.
+
 Deployment: Export and run your model on cloud or on-premises.
 
 ## Simulation
@@ -31,6 +35,7 @@ If you don't have a powerful GPU, AI Workbench offers simulated modes and access
 
 ## Tips
 Start with simple models.
+
 Check out the documentation and join the community for support.
 
 To simulate using the GPU without any available hardware, you can set up a CPU-only version of the container:
